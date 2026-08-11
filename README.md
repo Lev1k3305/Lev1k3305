@@ -20,20 +20,13 @@
 
 ## 🚀 About Me
 
-I'm a developer focused on building modern digital products.
+I'm an AI & Web Developer focused on building modern digital products.
 
-I don't just write code — I turn ideas into working products:
+I turn ideas into working websites, web applications, AI-powered products and MVPs.
 
-- 🌐 Web applications
-- 🤖 AI-powered products
-- 📱 Mobile applications
-- 🚀 MVPs for startups
-- ⚙️ Business tools and automation
+My approach:
 
-My approach is simple:
-
-> **Idea → Design → Development → AI Integration → Working Product**
-
+> Idea → Design → Development → AI Integration → Working Product
 ---
 
 ## 🧠 What I Build
