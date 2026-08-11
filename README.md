@@ -41,40 +41,60 @@ My approach:
 
 ---
 
+## 🧩 What I Can Build
+
+- 🌐 Landing Pages
+- 🏢 Business Websites
+- ⚙️ Web Applications
+- 🤖 AI-powered Applications
+- 📱 Mobile Applications
+- 🚀 MVP Development
+- 🔌 API & AI Integrations
+- 🗄️ Backend & Databases
+- 📊 Admin Dashboards
+- ⚡ Business Automation
+
+---
+
+---
+
 ## 🛠️ Tech Stack
 
-### Languages
+### Frontend
+JavaScript • TypeScript • React • HTML • CSS
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk" />
-</p>
+### Mobile
+Flutter • React Native
 
-### Development
+### Backend
+Python • Node.js • FastAPI
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" />
-</p>
+### Database
+Supabase • Firebase
 
 ### AI
+LLM APIs • AI Integration • Computer Vision
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20Integration-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-000?style=for-the-badge" />
-</p>
+### Tools
+Git • GitHub • VS Code
+
+---
+
+## ⚡ How I Work
+
+01 — Idea
+     ↓
+02 — Planning
+     ↓
+03 — UI/UX
+     ↓
+04 — Development
+     ↓
+05 — AI / API Integration
+     ↓
+06 — Testing
+     ↓
+07 — Deployment
 
 ---
 
@@ -82,81 +102,54 @@ My approach:
 
 ### 🎓 CourseFlow
 
-Educational platform focused on interactive learning and progress tracking.
+Educational platform with interactive learning and progress tracking.
 
-**Highlights:**
-- Interactive learning experience
-- User profiles
-- Progress tracking
-- Quizzes
-- Modern UI
-- Backend integration
+**Focus:** Web App • Education • Backend • UI/UX
 
-[View Project](./courseflow)
+[View Project →](https://github.com/Lev1k3305/courseflow)
 
 ---
 
 ### 🤖 Global IT Research Agent
 
-AI-powered research platform for analyzing IT job market data.
+AI-powered platform for researching and analyzing IT job market data.
 
-**Highlights:**
-- AI-powered analysis
-- Market research
-- Multi-country data
-- Profession comparison
-- Report generation
+**Focus:** AI • Research • Data Analysis • Web
 
-[View Project](./cis-research-agent)
+[View Project →](https://github.com/Lev1k3305/cis-research-agent)
 
 ---
 
 ### 🎨 AI Card Generator
 
-AI-powered web application for generating digital cards.
+AI-powered application for generating digital cards.
 
-**Highlights:**
-- AI integration
-- Modern web interface
-- Dynamic generation
-- User-focused UX
+**Focus:** AI • Web • UI/UX
 
-[View Project](./ai-card-generator)
+[View Project →](https://github.com/Lev1k3305/ai-card-generator)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lev1k3305&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lev1k3305&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev1k3305&layout=compact&theme=tokyonight&hide_border=true" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lev1k3305&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💼 Available for Projects
+## 📩 Have an Idea?
 
-I'm open to developing:
+Have an idea for a website, application or AI product?
 
-- Business websites
-- Web applications
-- AI-powered products
-- Mobile applications
-- MVPs
-- Custom digital solutions
+I can help turn it into a working product.
 
-If you have an idea — let's turn it into a product.
+**Instagram:** [@prost0_proger](https://www.instagram.com/prost0_proger)
 
----
+**TikTok:** [@prost0_proger](https://www.tiktok.com/@prost0_proger)
 
-## 📩 Contact
-
-**Instagram:** @prost0_proger  
-**TikTok:** @prost0_proger
-
-> 💡 Have an idea for a website, application or AI product?
->
-> **Send me a message.**
+📩 **DM me to discuss your project.**
