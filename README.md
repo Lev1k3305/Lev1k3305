@@ -3,11 +3,17 @@
 <h3 align="center">AI & Web Developer</h3>
 
 <p align="center">
-  <b>Turning ideas into working digital products.</b>
+  Turning ideas into working digital products.
 </p>
 
 <p align="center">
-  Web Apps • AI Products • MVP • Mobile Apps
+  Web Apps • AI Products • Mobile Apps • MVP
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lev1k3305">GitHub</a> •
+  <a href="https://www.instagram.com/prost0_proger/">Instagram</a> •
+  <a href="https://www.tiktok.com/@prost0_proger">TikTok</a>
 </p>
 
 ---
